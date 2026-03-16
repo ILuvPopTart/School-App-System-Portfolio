@@ -35,4 +35,4 @@ Key features of the proposed system include:
 This pitch demonstrates how enterprise technology and a modular architecture can improve the digital experience while integrating with existing university systems.
 
 Artifact:
-- [Week 8 System Pitch Deck](NLU_System_Pitch_Deck.pptx)
+- [Week 8 System Pitch]
