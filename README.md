@@ -18,7 +18,7 @@ Our vision is to create a school app system that is clear, reliable, and easy to
 Artifacts are stored in the **/artifacts** folder.
 
 ### Week 4 – System Vision Artifact
-- [Week 4 System Vision](Week 4 CSS.pdf)
+- [Week 4 System Vision]
 
 ## Week 8 – System Pitch (Team Project)
 
